@@ -6,3 +6,5 @@ line 4 added
 line 5 added by branch3
 line 6 added by branch5
 line 10 added by maser branch
+
+line 11 by branch 4
